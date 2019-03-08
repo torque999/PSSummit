@@ -1,1 +1,1 @@
-Test
+Get-CimInstance Win32_ComputerSystem
